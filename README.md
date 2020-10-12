@@ -1,1 +1,1 @@
-# Cantor-App
+# Car rental app
